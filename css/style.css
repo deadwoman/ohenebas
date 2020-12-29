@@ -339,7 +339,8 @@ header .intro-text {
   left: 0;
 }
 #team img {
-  max-width: 550px;
+  max-width: 900px;
+  align-items: center;
 }
 #team .team-img {
   display: inline-block;
