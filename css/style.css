@@ -198,7 +198,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg);
+  background: url(../img/gallery/intro-bg.jpg);
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -389,6 +389,8 @@ label {
   font-family: "Open Sans", sans-serif;
   float: left;
 }
+
+/*
 #contact .form-control {
   display: block;
   width: 100%;
@@ -424,6 +426,7 @@ label {
 .form-control:-ms-input-placeholder {
   color: #999;
 }
+*/
 #contact .contact-item {
   margin: 20px 0 40px 0;
 }
