@@ -332,19 +332,26 @@ header .intro-text {
 /* Team Section */
 #team {
   padding: 120px 0;
+  text-align: center;
+  justify-content: center;
 }
 #team h2::after {
   bottom: 0;
-  margin-left: 0;
-  left: 0;
+  text-align: center;
+  justify-content: center;
+  /* margin-left: 0;
+  left: 0; */
 }
 #team img {
-  max-width: 810px;
-  align-items: center;
+  max-width: 1000px;
+  align-items: right;
+  justify-content: center;
 }
 #team .team-img {
   display: inline-block;
-  position: relative;
+  text-align: center;
+  justify-content: center;
+  /* position: relative; */
 }
 /* Contact Section */
 #contact {
